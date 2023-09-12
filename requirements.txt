@@ -1,0 +1,7 @@
+nltk
+Flask
+json5
+numpy
+tensorflow
+keras
+spacy
